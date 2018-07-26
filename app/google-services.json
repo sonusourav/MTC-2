@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "145353695243",
+    "firebase_url": "https://suliteos001.firebaseio.com",
+    "project_id": "suliteos001",
+    "storage_bucket": "suliteos001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145353695243:android:06fd76299f0d4615",
+        "android_client_info": {
+          "package_name": "com.suliteos.towaso.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145353695243-t6c06dktciajkt493prk4je9ehj7d4sn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suliteos.towaso.user",
+            "certificate_hash": "e807f282013cac65f3229bc43eafa5daaf272059"
+          }
+        },
+        {
+          "client_id": "145353695243-lacfcm9vjvbvkrpo8t4jfok3luptfi1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5YddlsTsCjFjoBZd66c1yhOS_5WouEs4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145353695243-lacfcm9vjvbvkrpo8t4jfok3luptfi1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
